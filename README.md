@@ -1,12 +1,2 @@
-
-
-
-
-
-
-
-# The Sparks Foundation
-# Topic : Basic Banking Website
-# web developement project
-# Made by Param Agrawal
+<h1 align='center'>Basic Banking System</h1>
 
